@@ -4,10 +4,7 @@ The website is able to provide detailed information to the visitors,thereby answ
 
 The Technologies Used in this project are-
 
-1.Browser  
-2.HTML     
-3.CSS
-4.PHP       
-5.MySQL    
-6.XAMPP
+1.Browser        2.HTML     
+3.CSS            4.PHP       
+5.MySQL          6.XAMPP
 7.JavaScript  
